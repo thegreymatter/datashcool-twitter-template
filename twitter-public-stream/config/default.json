@@ -1,0 +1,7 @@
+{
+    "twitterApi":{
+        "consumer_key": "a",
+        "consumer_secret": "b",
+        "bearer_token": "c"
+    }
+}

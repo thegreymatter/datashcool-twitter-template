@@ -1,0 +1,14 @@
+{
+  "name": "twitter-public-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "twitter": "^1.7.1",
+	"config": "^1.26.2",
+	"kafka": "^0.2.3"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
